@@ -1,7 +1,7 @@
 <p float="left">
-  <img src="public/datadotorgLogo.png" width="200" hspace="40"/>
-  <img src="public/aalborg-university-logo.png" width="200" hspace="40"/>
-  <img src="public/DataClinicLogo.png" width="200" hspace="40"/>
+  <img src="public/datadotorgLogo.png" width="180" hspace="40"/>
+  <img src="public/aalborg-university-logo.png" width="180" hspace="40"/>
+  <img src="public/DataClinicLogo.png" width="180" hspace="40"/>
 </p>
 
 # Open Source Geospatial Units in Denmark to Enable Action-Oriented Research and Decision-making
