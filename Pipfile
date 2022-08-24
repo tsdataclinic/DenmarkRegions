@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+install = "*"
+wasmer = "==1.0.0"
+wasmer-compiler-cranelift = "==1.0.0"
+ipython = "*"
+jupyterlab = "*"
+pandas = "*"
+geopandas = "*"
+matplotlib = "*"
+geovoronoi = "*"
+libpysal = "*"
+spopt = "*"
+shapely = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
