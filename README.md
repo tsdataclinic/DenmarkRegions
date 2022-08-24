@@ -1,12 +1,12 @@
 <p float="left">
-  <img src="public/datadotorgLogo.png" width="180" hspace="40"/>
-  <img src="public/aalborg-university-logo.png" width="180" hspace="40"/>
-  <img src="public/DataClinicLogo.png" width="180" hspace="40"/>
+  <a href="https://data.org"><img src="public/datadotorgLogo.png" width="180" hspace="40"/></a>
+  <a href="https://www.en.build.aau.dk"><img src="public/aalborg-university-logo.png" width="180" hspace="40"/></a>
+  <a href="https://dataclinic.twosigma.com"><img src="public/DataClinicLogo.png" width="180" hspace="40"/></a>
 </p>
 
 # Open Source Geospatial Units in Denmark to Enable Action-Oriented Research and Decision-making
 
-Aalborg University’s Department of the Built Environment (BUILD) seeks to empower data-informed action for more equitable economic opportunity across Denmark. Over the years, their team has developed innovative insights and new metrics related to quality of life at the fine-grained 100x100m grid level using sensitive administrative data from Statistics Denmark. With financial support from data.org’s Inclusive Growth and Recovery Challenge, and analytical support from our team at Data Clinic, we set out to build the equivalent of U.S. census tracts for Denmark to make the data more accesible to the public for Danish municipality decisionmakers, community organizations, and researchers alike.
+Aalborg University’s [Department of the Built Environment (BUILD)](https://www.en.build.aau.dk) seeks to empower data-informed action for more equitable economic opportunity across Denmark. Over the years, their team has developed innovative insights and new metrics related to quality of life at the fine-grained 100x100m grid level using sensitive administrative data from Statistics Denmark. With financial support from data.org’s Inclusive Growth and Recovery Challenge, and analytical support from our team at [Data Clinic](https://dataclinic.twosigma.com), we set out to build the equivalent of U.S. census tracts for Denmark to make the data more accesible to the public for Danish municipality decisionmakers, community organizations, and researchers alike.
 
 ## Methodology
 
