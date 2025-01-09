@@ -1,3 +1,5 @@
+**This project is no longer maintained by Two Sigma. We continue to encourage independent development.**
+
 <p float="left">
   <a href="https://data.org"><img src="public/datadotorgLogo.png" width="180" hspace="40"/></a>
   <a href="https://www.en.build.aau.dk"><img src="public/aalborg_logo.png" width="180" hspace="40"/></a>
